@@ -1,4 +1,4 @@
-name: Get latest dataAdd commentMore actions
+name: Get latest data
 on:
   schedule:
     # Runs every 6 hours
