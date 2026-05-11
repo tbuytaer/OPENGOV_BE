@@ -1,4 +1,7 @@
-{
-  "error_code": "NotFoundResource",
-  "message": "The requested dataset evolutie-van-het-aantal-overwegen does not exist."
-}
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>

@@ -1,4 +1,7 @@
 {
-  "error_code": "NotFoundResource",
-  "message": "The requested dataset km_longscourts does not exist."
+  "error": "Too many requests on the domain. Please contact the domain administrator.",
+  "errorcode": 10003,
+  "reset_time": "2026-05-12T00:00:00Z",
+  "call_limit": 50000,
+  "limit_time_unit": "day"
 }
