@@ -1,7 +1,4 @@
 {
-  "error": "Too many requests on the domain. Please contact the domain administrator.",
-  "errorcode": 10003,
-  "reset_time": "2026-05-13T00:00:00Z",
-  "call_limit": 50000,
-  "limit_time_unit": "day"
+  "error_code": "NotFoundResource",
+  "message": "The requested dataset km_longscourts does not exist."
 }

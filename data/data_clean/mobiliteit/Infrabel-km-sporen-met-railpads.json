@@ -1,7 +1,1 @@
-{
-  "error": "Too many requests on the domain. Please contact the domain administrator.",
-  "errorcode": 10003,
-  "reset_time": "2026-05-13T00:00:00Z",
-  "call_limit": 50000,
-  "limit_time_unit": "day"
-}
+[{"jaar": "2025", "km_de_voies_equipes_de_railpads_2_0": 73.537, "total": 765.61},{"jaar": "2024", "km_de_voies_equipes_de_railpads_2_0": 70.424, "total": 692.073},{"jaar": "2023", "km_de_voies_equipes_de_railpads_2_0": 87.057, "total": 621.649},{"jaar": "2022", "km_de_voies_equipes_de_railpads_2_0": 124.753, "total": 534.592},{"jaar": "2021", "km_de_voies_equipes_de_railpads_2_0": 91.868, "total": 409.839},{"jaar": "2020", "km_de_voies_equipes_de_railpads_2_0": 93.137, "total": 317.971},{"jaar": "2019", "km_de_voies_equipes_de_railpads_2_0": 74.694, "total": 224.834},{"jaar": "2018", "km_de_voies_equipes_de_railpads_2_0": 121.21, "total": 150.14},{"jaar": "2017", "km_de_voies_equipes_de_railpads_2_0": 28.93, "total": 28.93}]
